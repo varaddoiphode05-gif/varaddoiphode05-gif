@@ -1,5 +1,5 @@
 <div align="center">
-<img src="ggggithubimage.png" alt="Varad's Profile Banner" width="100%">
+<img src="ggithubimage.png" alt="Varad's Profile Banner" width="100%">
 </div>
 ---
 
