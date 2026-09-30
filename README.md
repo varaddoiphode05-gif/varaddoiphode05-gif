@@ -46,6 +46,16 @@ working with people.
 
 ---
 
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Varaddoiphode05-gif&show_icons=true&theme=radical&hide_border=true" height="180">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varaddoiphode05-gif&layout=compact&theme=radical&hide_border=true" height="180">
+
+</div>
+
 ## 🌟 Leadership & Activities
 
 ### 🤝 PICT NSS
@@ -115,7 +125,7 @@ communication and leadership skills.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="linkedin.com/in/varad-vinay-doiphode-24b479396">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
