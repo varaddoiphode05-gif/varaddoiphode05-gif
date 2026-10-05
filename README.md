@@ -1,18 +1,8 @@
-<div align="center">
-
-<img src="ggithubimage.png" alt="Varad's Profile Banner" width="100%">
-
-</div>
-
 ---
-
-<div align="center">
 
 # 👋 Varad Vinay Doiphode
 
 ### Electronics & Computer Engineering Student @ PICT
-
-</div>
 
 ---
 
@@ -36,21 +26,16 @@
 | 🧠 **DSA**             | Data Structures • Algorithms • Problem Solving |
 | 🌐 **Web Development** | HTML • CSS • JavaScript                        |
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js" />
-
-</div>
-
 ---
 
 ## 🌟 Activities & Communities
 
-| Organization / Activity | Experience                                                                                                                                                                          |
-| ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🤖 **PICT Robotics**    | Exploring robotics, participating in technical projects and developing practical engineering skills.                                                                                |
-| ⚡ **PICT IEEE**         | Exploring technology, participating in technical activities and connecting with the engineering community.                                                                          |
-| 🤝 **PICT NSS**         | Actively participating in various social-service activities through **PICT NSS**, contributing to community initiatives and working with people to create a positive social impact. |
+| Organization / Activity                                        | Experience                                                                                                                                                                          |
+| -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="pict-robotics.png" width="40"> **PICT Robotics**     | Exploring robotics, participating in technical projects and developing practical engineering skills.                                                                                |
+| <img src="pict-ieee.png" width="40"> **PICT IEEE**             | Exploring technology, participating in technical activities and connecting with the engineering community.                                                                          |
+| <img src="pict-nss.png" width="40"> **PICT NSS**               | Actively participating in various social-service activities through **PICT NSS**, contributing to community initiatives and working with people to create a positive social impact. |
+| <img src="public-speaking.png" width="40"> **Public Speaking** | Developing communication and presentation skills through public speaking and various activities.                                                                                    |
 
 ---
 
@@ -85,9 +70,9 @@
 
 ## 🔥 GitHub Streak
 
-| Contribution Streak                                                                                                            |
-| ------------------------------------------------------------------------------------------------------------------------------ |
-| <div align="center"><img src="https://streak-stats.demolab.com?user=Varaddoiphode05-gif&theme=radical&hide_border=true"></div> |
+| Contribution Streak                                                                                  |
+| ---------------------------------------------------------------------------------------------------- |
+| <img src="https://streak-stats.demolab.com?user=Varaddoiphode05-gif&theme=radical&hide_border=true"> |
 
 ---
 
@@ -111,13 +96,37 @@
 
 ---
 
-<div align="center">
-
 ### ⭐ Thanks for visiting my profile!
 
 **Keep Learning • Keep Building • Keep Leading 🚀**
 
-</div>
+---
+
+### 📁 Image files to add to your GitHub repository
+
+Put these image files in the **same folder as your README.md**:
+
+| File                  | Used For                 |
+| --------------------- | ------------------------ |
+| `pict-robotics.png`   | 🤖 PICT Robotics logo    |
+| `pict-ieee.png`       | ⚡ PICT IEEE logo         |
+| `pict-nss.png`        | 🤝 PICT NSS logo         |
+| `public-speaking.png` | 🎤 Public Speaking image |
+
+Then GitHub will automatically display them using:
+
+```html
+<img src="pict-robotics.png" width="40">
+```
+
+If your images are inside an `images` folder, change it to:
+
+```html
+<img src="images/pict-robotics.png" width="40">
+```
+
+**Best option:** use the actual official logos of **PICT Robotics, PICT IEEE and PICT NSS** rather than generic icons. This will make your profile look much more authentic and professional.
+
 
 
 
