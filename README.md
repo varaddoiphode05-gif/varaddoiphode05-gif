@@ -1,54 +1,101 @@
 <div align="center">
-<img src="ggithubimage.png" alt="Varad's Profile Banner" width="100%">
+
+# 👋 Hi, I'm Varad Vinay Doiphode
+
+### Electronics & Computer Engineering Student @ PICT
+
+**Learn • Build • Lead • Create an Impact 🚀**
+
 </div>
 
 ---
 
 ## 👋 About Me
 
-Hi! I'm **Varad Vinay Doiphode**, an **Electronics and Computer
-Engineering student at PICT**.
+|                           |                                               |
+| ------------------------- | --------------------------------------------- |
+| 🎓 **Education**          | Electronics & Computer Engineering @ **PICT** |
+| 💻 **Programming**        | C, C++, Data Structures & Algorithms          |
+| 🌐 **Web Development**    | HTML, CSS & JavaScript                        |
+| 🤖 **Technical Activity** | Member of **PICT Robotics**                   |
+| ⚡ **Technical Community** | Member of **PICT IEEE**                       |
+| 🤝 **Social Activity**    | Member of **PICT NSS**                        |
+| 🎤 **Communication**      | Public Speaking                               |
+| 👨‍💼 **Leadership**      | Leadership & Teamwork                         |
 
-I'm passionate about technology, problem solving, leadership and
-communication. I enjoy learning new concepts, building things, and
+I'm passionate about **technology, problem solving, leadership and
+communication**. I enjoy learning new concepts, building things, and
 working with people.
-
-* 🎓 Electronics & Computer Engineering @ **PICT**
-* 💻 Learning & practicing **C++ and Data Structures & Algorithms**
-* 🌐 Exploring **HTML, CSS & JavaScript**
-* 🤖 Member of **PICT Robotics**
-* 🎤 Passionate about **Public Speaking**
-* 👨‍💼 Interested in **Leadership & Teamwork**
-* 🤝 Member of **PICT NSS**
-* ⚡ Member of **PICT IEEE**
 
 ---
 
 ## 💻 Tech Stack
 
-### Programming & DSA
+### 🧑‍💻 Programming & DSA
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp" />
+<img src="https://skillicons.dev/icons?i=c,cpp" />
 
-</p>
+</div>
 
-**C++** • **Data Structures & Algorithms** • **Problem Solving**
+| Skills                           |
+| -------------------------------- |
+| **C**                            |
+| **C++**                          |
+| **Data Structures & Algorithms** |
+| **Problem Solving**              |
 
-### Web Development
+### 🌐 Web Development
 
-<p align="center">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 
-</p>
+</div>
 
-**HTML** • **CSS** • **JavaScript**
+| Skills         |
+| -------------- |
+| **HTML**       |
+| **CSS**        |
+| **JavaScript** |
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+## 🌟 Leadership & Activities
+
+| Activity                            | What I Do                                                                                                          |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| 🤖 **PICT Robotics**                | Explore robotics, work on technical projects, collaborate with teammates and develop practical engineering skills. |
+| 🤝 **PICT NSS**                     | Participate in social activities, work with people and contribute to community initiatives.                        |
+| ⚡ **PICT IEEE**                     | Explore technology, connect with people and grow professionally through technical activities.                      |
+| 🎤 **Public Speaking & Leadership** | Develop communication skills, take leadership responsibilities and work effectively in teams.                      |
+
+---
+
+## 🚀 Currently Learning
+
+| Area                                | Focus                                        |
+| ----------------------------------- | -------------------------------------------- |
+| 🤖 **Robotics**                     | Exploring robotics and practical engineering |
+| 🧠 **Data Structures & Algorithms** | Problem solving and algorithmic thinking     |
+| 💻 **C++**                          | Programming and competitive problem solving  |
+| 🌐 **Web Development**              | HTML, CSS & JavaScript                       |
+| 🎤 **Public Speaking**              | Communication and presentation skills        |
+| 👨‍💼 **Leadership & Teamwork**     | Collaboration, responsibility and initiative |
+
+---
+
+## 🎯 My Goal
+
+| 🎯 Goal                                                                                                   |
+| --------------------------------------------------------------------------------------------------------- |
+| **Learn. Build. Lead. Create an Impact. 🚀**                                                              |
+| I want to grow as an engineer while developing strong **technical, communication and leadership skills**. |
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -58,69 +105,13 @@ working with people.
 
 </div>
 
-## 🌟 Leadership & Activities
-
-### 🤖 PICT Robotics
-
-Being a part of **PICT Robotics** gives me opportunities to explore
-robotics, work on technical projects, collaborate with teammates and
-develop practical engineering skills.
-
-### 🤝 PICT NSS
-
-Being a part of **PICT NSS** gives me opportunities to work with
-people, contribute to activities and learn through real experiences.
-
-### ⚡ PICT IEEE
-
-As a member of **PICT IEEE**, I get opportunities to explore
-technology, connect with people and grow professionally.
-
-### 🎤 Public Speaking & Leadership
-
-I enjoy **public speaking and taking leadership responsibilities**.
-I believe communication, teamwork and the ability to take initiative
-are just as important as technical skills.
-
----
-
-## 🚀 Currently Learning
-
-* 🤖 Robotics
-* 🧠 Data Structures & Algorithms
-* 💻 C++
-* 🌐 Web Development
-* 🎤 Public Speaking
-* 👨‍💼 Leadership & Teamwork
-
----
-
-## 🎯 My Goal
-
-> **Learn. Build. Lead. Create an Impact. 🚀**
-
-I want to grow as an engineer while developing strong technical,
-communication and leadership skills.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Varaddoiphode05-gif&show_icons=true&theme=radical&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varaddoiphode05-gif&layout=compact&theme=radical&hide_border=true" />
-
-</div>
-
 ---
 
 ## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Varaddoiphode05-gif&theme=radical&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Varaddoiphode05-gif&theme=radical&hide_border=true">
 
 </div>
 
@@ -149,4 +140,5 @@ communication and leadership skills.
 **Keep Learning • Keep Building • Keep Leading 🚀**
 
 </div>
+
 
