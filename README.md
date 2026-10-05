@@ -1,6 +1,7 @@
 <div align="center">
 <img src="ggithubimage.png" alt="Varad's Profile Banner" width="100%">
 </div>
+
 ---
 
 ## 👋 About Me
@@ -12,13 +13,14 @@ I'm passionate about technology, problem solving, leadership and
 communication. I enjoy learning new concepts, building things, and
 working with people.
 
-- 🎓 Electronics & Computer Engineering @ **PICT**
-- 💻 Learning & practicing **C++ and Data Structures & Algorithms**
-- 🌐 Exploring **HTML, CSS & JavaScript**
-- 🎤 Passionate about **Public Speaking**
-- 👨‍💼 Interested in **Leadership & Teamwork**
-- 🤝 Member of **PICT NSS**
-- ⚡ Member of **PICT IEEE**
+* 🎓 Electronics & Computer Engineering @ **PICT**
+* 💻 Learning & practicing **C++ and Data Structures & Algorithms**
+* 🌐 Exploring **HTML, CSS & JavaScript**
+* 🤖 Member of **PICT Robotics**
+* 🎤 Passionate about **Public Speaking**
+* 👨‍💼 Interested in **Leadership & Teamwork**
+* 🤝 Member of **PICT NSS**
+* ⚡ Member of **PICT IEEE**
 
 ---
 
@@ -58,6 +60,12 @@ working with people.
 
 ## 🌟 Leadership & Activities
 
+### 🤖 PICT Robotics
+
+Being a part of **PICT Robotics** gives me opportunities to explore
+robotics, work on technical projects, collaborate with teammates and
+develop practical engineering skills.
+
 ### 🤝 PICT NSS
 
 Being a part of **PICT NSS** gives me opportunities to work with
@@ -78,11 +86,12 @@ are just as important as technical skills.
 
 ## 🚀 Currently Learning
 
-- 🧠 Data Structures & Algorithms
-- 💻 C++
-- 🌐 Web Development
-- 🎤 Public Speaking
-- 👨‍💼 Leadership & Teamwork
+* 🤖 Robotics
+* 🧠 Data Structures & Algorithms
+* 💻 C++
+* 🌐 Web Development
+* 🎤 Public Speaking
+* 👨‍💼 Leadership & Teamwork
 
 ---
 
@@ -140,3 +149,4 @@ communication and leadership skills.
 **Keep Learning • Keep Building • Keep Leading 🚀**
 
 </div>
+
