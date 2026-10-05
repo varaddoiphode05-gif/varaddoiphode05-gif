@@ -35,7 +35,7 @@
 | <img src="pict-robotics.png" width="40"> **PICT Robotics**     | Exploring robotics, participating in technical projects and developing practical engineering skills.                                                                                |
 | <img src="pict-ieee.png" width="40"> **PICT IEEE**             | Exploring technology, participating in technical activities and connecting with the engineering community.                                                                          |
 | <img src="pict-nss.png" width="40"> **PICT NSS**               | Actively participating in various social-service activities through **PICT NSS**, contributing to community initiatives and working with people to create a positive social impact. |
-| <img src="public-speaking.png" width="40"> **Public Speaking** | Developing communication and presentation skills through public speaking and various activities.                                                                                    |
+| 🎤 **Public Speaking**                                         | Developing communication and presentation skills through public speaking and various activities.                                                                                    |
 
 ---
 
@@ -99,34 +99,3 @@
 ### ⭐ Thanks for visiting my profile!
 
 **Keep Learning • Keep Building • Keep Leading 🚀**
-
----
-
-### 📁 Image files to add to your GitHub repository
-
-Put these image files in the **same folder as your README.md**:
-
-| File                  | Used For                 |
-| --------------------- | ------------------------ |
-| `pict-robotics.png`   | 🤖 PICT Robotics logo    |
-| `pict-ieee.png`       | ⚡ PICT IEEE logo         |
-| `pict-nss.png`        | 🤝 PICT NSS logo         |
-| `public-speaking.png` | 🎤 Public Speaking image |
-
-Then GitHub will automatically display them using:
-
-```html
-<img src="pict-robotics.png" width="40">
-```
-
-If your images are inside an `images` folder, change it to:
-
-```html
-<img src="images/pict-robotics.png" width="40">
-```
-
-**Best option:** use the actual official logos of **PICT Robotics, PICT IEEE and PICT NSS** rather than generic icons. This will make your profile look much more authentic and professional.
-
-
-
-
