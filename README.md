@@ -1,3 +1,5 @@
+<img src="banner_light_background.png" width="100%">
+
 ---
 
 # 👋 Varad Vinay Doiphode
@@ -9,11 +11,11 @@
 ## 👨‍💻 About Me
 
 | Category             | Details                                                       |
-| -------------------- | ------------------------------------------------------------- |
+| -------------------- | ------------------------------------------------------------ |
 | 🎓 **Education**     | Electronics & Computer Engineering @ **PICT**                 |
 | 💡 **Interests**     | Technology, Problem Solving, Engineering & Innovation         |
 | 🎤 **Communication** | Public Speaking & Communication                               |
-| 👨‍💼 **Leadership** | Leadership, Teamwork & Taking Initiative                      |
+| 👨‍💼 **Leadership**   | Leadership, Teamwork & Taking Initiative                      |
 | 🎯 **Focus**         | Building technical knowledge and practical engineering skills |
 
 ---
@@ -22,7 +24,7 @@
 
 | Area                   | Skills                                         |
 | ---------------------- | ---------------------------------------------- |
-| 🧑‍💻 **Programming**  | C • C++                                        |
+| 🧑‍💻 **Programming**   | C • C++                                        |
 | 🧠 **DSA**             | Data Structures • Algorithms • Problem Solving |
 | 🌐 **Web Development** | HTML • CSS • JavaScript                        |
 
@@ -99,3 +101,4 @@
 ### ⭐ Thanks for visiting my profile!
 
 **Keep Learning • Keep Building • Keep Leading 🚀**
+
